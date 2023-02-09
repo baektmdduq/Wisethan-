@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:src="@drawable/wisethanlogo"
+        android:layout_marginBottom="100dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/chatButton"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:drawableStart="@android:drawable/stat_notify_chat"
+        android:text="Chat"
+        android:layout_marginBottom="20dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/notificationButton"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:drawableStart="@android:drawable/ic_popup_reminder"
+        android:text="Notification"
+        android:layout_marginBottom="100dp"/>
+
+
+
+</LinearLayout>

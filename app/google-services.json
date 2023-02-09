@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514861668411",
+    "project_id": "wisethan-f69fd",
+    "storage_bucket": "wisethan-f69fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514861668411:android:67d451b5ef1d86e31ce41e",
+        "android_client_info": {
+          "package_name": "kr.co.baek.wisethan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514861668411-dnc2a2gp73vpkrv856ti4uh5mf19cc1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckSLCpLg2zWlTKShwIX_VTYaY_3fGtKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514861668411-dnc2a2gp73vpkrv856ti4uh5mf19cc1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
